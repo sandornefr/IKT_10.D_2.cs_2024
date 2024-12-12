@@ -1,7 +1,7 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif; /*betűtípus beállítása*/
+    font-family: Georgia, k, Times, serif; /*betűtípus beállítása*/
     background-color: aliceblue; /*háttérszín*/
-    background-image: url(../img/hatter.jpg); /*háttérkép*/
+    background-image: url(../img/kameleon.jpg); /*háttérkép*/
     color: red; /*betűszín*/
     color: #ffffff; /*betűszín hexakód*/
     color: rgb(252,242,75); /*betűszín RGB kóddal*/
@@ -35,5 +35,5 @@ tr:hover { /*táblázati sor felé viszem az egeret*/
 }
 
 ul {
-    list-style-image: url(../img/bogar.jpg); /*listaelem stílus kép*/
+    list-style-image: url(../img/kollazskep.jpg); /*listaelem stílus kép*/
 }
